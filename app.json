@@ -42,17 +42,17 @@
         "BOT_NAME": {
             "description": "Pleas enter your BOT Name.",
             "required": true,
-                "value": "Toxic Bot"
+                "value": "ᴊɪᴍʙʀᴏᴏᴛᴛᴀɴ"
         }, 
         "MENU_LOGO": {
             "description": "Icon or emoji to show in menu list.",
             "required": true,
-                "value": "𒆜"
+                "value": "❤️"
         }, 
 	"MENU_LOGO2": {
             "description": "Icon or emoji to show in menu list.",
             "required": true,
-                "value": "𒆜"
+                "value": "🤸"
         }, 
         "AUTO_TYPE": {
             "description": "Automatic typing status.(true or false).",
