@@ -1,7 +1,7 @@
 {
-  "name": "Alien Alfa Bot",
-  "description": "First Whatsapp Bot By AlienAlfa",
-  "repository": "https://github.com/Alien-Alfa/AlienAlfaBot",
+  "name": "Jimbroottan_Offical",
+  "description": "First Whatsapp Bot By Mikhaiel",
+  "repository": "https://github.com/Mikhaiel/whatsapp-bot",
   "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
 	"env": {
@@ -12,12 +12,12 @@
         "OWNER_NUMBER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": true,
-            "value": "447405935255"
+            "value": "919544846609"
         }, 
         "OWNER_NAME": {
             "description": "Pleas enter your Name.",
             "required": true,
-        "value": "Alien Alfa"
+        "value": "ＭＩＫＨＡＩＥＬ"
         }, 
         "WORK_TYPE": {
             "description": "Public or Private(true = Private, False = Public).",
