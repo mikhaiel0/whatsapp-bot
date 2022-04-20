@@ -47,12 +47,12 @@
         "MENU_LOGO": {
             "description": "Icon or emoji to show in menu list.",
             "required": true,
-                "value": "❤️"
+                "value": "☬"
         }, 
 	"MENU_LOGO2": {
             "description": "Icon or emoji to show in menu list.",
             "required": true,
-                "value": "🤸"
+                "value": "☬"
         }, 
         "AUTO_TYPE": {
             "description": "Automatic typing status.(true or false).",
