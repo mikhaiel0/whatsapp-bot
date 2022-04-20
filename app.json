@@ -2,7 +2,7 @@
   "name": "Jimbroottan_Offical",
   "description": "First Whatsapp Bot By Mikhaiel",
   "repository": "https://github.com/Mikhaiel/whatsapp-bot",
-  "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
+  "logo": "https://i.imgur.com/0SUQkRT.jpeg",
  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
 	"env": {
         "BAILEYS_SESSION": {
